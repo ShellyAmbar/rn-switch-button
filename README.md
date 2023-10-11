@@ -15,7 +15,7 @@ return (
    deafultSelectedIndex={0}
    leftText="one"
    rightText="two"  />
-{/_ <ExpensesView /> _/}
+
 </View>
 );
 };
