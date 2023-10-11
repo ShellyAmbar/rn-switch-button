@@ -3,15 +3,12 @@
 ### It comes with a built-in TypeScript typings and is compatible with all popular JavaScript frameworks. You can use it directly or leverage well-maintained wrapper packages that allow for a more native integration with your frameworks of choice.
 
 > [!NOTE]
-> Highlights information that users should take into account, even when skimming.
+> A dynamic Switch / toggle button that response to the touch with animation.
+> It comes with a built-in TypeScript typings and is compatible with all popular JavaScript frameworks. You can use it directly or leverage well-maintained wrapper packages that allow for a more native integration with your frameworks of choice.
 
 > [!IMPORTANT]
-> Crucial information necessary for users to succeed.
-
-> [!WARNING]
-> Critical content demanding immediate user attention due to potential risks.
-
-# Installation:
+>
+> # Installation:
 
 ```
 npm i rn-switch-button
@@ -23,7 +20,9 @@ yarn add rn-switch-button
 
 ```
 
-# Usage:
+> [!IMPORTANT]
+>
+> # Usage:
 
 ```
 const HomeScreen = ({navigation, ...props}) => {
