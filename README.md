@@ -2,6 +2,18 @@
 
 ### It comes with a built-in TypeScript typings and is compatible with all popular JavaScript frameworks. You can use it directly or leverage well-maintained wrapper packages that allow for a more native integration with your frameworks of choice.
 
+# instelation:
+
+```
+npm i rn-switch-button
+
+```
+
+```
+yarn add rn-switch-button
+
+```
+
 # Usage:
 
 ```
