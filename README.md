@@ -1,24 +1,20 @@
-> [!NOTE]
-> A dynamic Switch / toggle button that response to the touch with animation.
-> It comes with a built-in TypeScript typings and is compatible with all popular JavaScript frameworks. You can use it directly or leverage well-maintained wrapper packages that allow for a more native integration with your frameworks of choice.
+- RN-Switch-Button is A dynamic Switch / toggle button that response to the touch with react native animation.
 
-> [!IMPORTANT]
->
-> # Installation:
+- It comes with a built-in TypeScript typings and is compatible with all popular JavaScript frameworks. You can use it directly or leverage well-maintained wrapper packages that allow for a more native integration with your frameworks of choice.
 
-```
+# Installation:
+
+```ruby
 npm i rn-switch-button
 
 ```
 
-```
+```ruby
 yarn add rn-switch-button
 
 ```
 
-> [!IMPORTANT]
->
-> # Usage:
+# Usage:
 
 ```
 const HomeScreen = ({navigation, ...props}) => {
