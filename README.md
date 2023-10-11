@@ -1,7 +1,3 @@
-## A dynamic Switch / toggle button that response to the touch with animation.
-
-### It comes with a built-in TypeScript typings and is compatible with all popular JavaScript frameworks. You can use it directly or leverage well-maintained wrapper packages that allow for a more native integration with your frameworks of choice.
-
 > [!NOTE]
 > A dynamic Switch / toggle button that response to the touch with animation.
 > It comes with a built-in TypeScript typings and is compatible with all popular JavaScript frameworks. You can use it directly or leverage well-maintained wrapper packages that allow for a more native integration with your frameworks of choice.
