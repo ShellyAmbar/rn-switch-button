@@ -1,0 +1,30 @@
+{
+  "name": "rn-switch-button",
+  "version": "1.0.0",
+  "description": "An animated switch button Written in TypeScript.",
+  "main": "button-switch/button-switch.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.72.3"
+  },
+  "keywords": [
+    "switch",
+    "button",
+    "react",
+    "native",
+    "animated"
+  ],
+  "author": "Shelly Ambar",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShellyAmbar/rn-switch-button.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ShellyAmbar/rn-switch-button/issues"
+  },
+  "homepage": "https://github.com/ShellyAmbar/rn-switch-button#readme"
+}
