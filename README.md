@@ -4,20 +4,19 @@
 
 # Usage:
 
-```const HomeScreen = ({navigation, ...props}) => {
-const {} = useHomeScreen({navigation});
+```
+const HomeScreen = ({navigation, ...props}) => {
+
 return (
-<Box contentContainerStyle={Styles.container}>
-<Spacer size={6} />
-{/_ <ExpensesGraph /> _/}
-<ButtonFactory
-        type="switch"
-        deafultSelectedIndex={0}
-        leftText="one"
-        rightText="two"
-      />
+<View contentContainerStyle={Styles.container}>
+
+
+<ButtonSwitch
+   deafultSelectedIndex={0}
+   leftText="one"
+   rightText="two"  />
 {/_ <ExpensesView /> _/}
-</Box>
+</View>
 );
 };
 
