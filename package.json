@@ -1,6 +1,6 @@
 {
   "name": "rn-switch-button",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "An animated switch button Written in TypeScript.",
   "main": "button-switch/button-switch.tsx",
   "scripts": {
